@@ -1,0 +1,38 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  background: white;
+  font-family: "Kavivanar", cursive;
+}
+table button {
+  margin: 2px;
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+  border-radius: 50%;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+h1 {
+  font-style: bolder;
+  text-align: center;
+}
+h2 {
+  font-style: bolder;
+  text-align: center;
+}
+
+h3 {
+  font-style: bolder;
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
